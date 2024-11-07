@@ -1,11 +1,14 @@
 package com.yf.domain.entity;
 
+import lombok.Data;
+
 import java.util.Date;
 
 /**
  * @author: biyunfei3
  * @create: 2024-11-07 11:21
  **/
+@Data
 public class Article {
 
     private Long id;
