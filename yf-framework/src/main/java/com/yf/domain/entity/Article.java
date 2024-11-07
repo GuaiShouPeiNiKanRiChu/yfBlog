@@ -14,7 +14,7 @@ import java.util.Date;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-@TableName("article")
+@TableName("yf_article")
 public class Article {
 
     private Long id;
@@ -22,8 +22,6 @@ public class Article {
     private String title;
 
     private String content;
-
-    private String type;
 
     private String  summary;
 
