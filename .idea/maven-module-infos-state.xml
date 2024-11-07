@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="mavenModuleInfos">
+    <option name="maps">
+      <map>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <MavenModuleInfo>
+              <option name="disabled" value="true" />
+              <option name="name" value="yfBlog" />
+              <option name="pomPath" value="$PROJECT_DIR$/pom.xml" />
+            </MavenModuleInfo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/yf-admin/pom.xml">
+          <value>
+            <MavenModuleInfo>
+              <option name="disabled" value="true" />
+              <option name="name" value="yf-admin" />
+              <option name="pomPath" value="$PROJECT_DIR$/yf-admin/pom.xml" />
+            </MavenModuleInfo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/yf-blog/pom.xml">
+          <value>
+            <MavenModuleInfo>
+              <option name="disabled" value="true" />
+              <option name="name" value="yf-blog" />
+              <option name="pomPath" value="$PROJECT_DIR$/yf-blog/pom.xml" />
+            </MavenModuleInfo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/yf-framework/pom.xml">
+          <value>
+            <MavenModuleInfo>
+              <option name="disabled" value="true" />
+              <option name="name" value="yf-framework" />
+              <option name="pomPath" value="$PROJECT_DIR$/yf-framework/pom.xml" />
+            </MavenModuleInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
