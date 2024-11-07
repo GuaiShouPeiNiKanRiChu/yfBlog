@@ -1,6 +1,9 @@
 package com.yf.domain.entity;
 
+import com.baomidou.mybatisplus.annotation.TableName;
+import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.NoArgsConstructor;
 
 import java.util.Date;
 
@@ -9,6 +12,9 @@ import java.util.Date;
  * @create: 2024-11-07 11:21
  **/
 @Data
+@AllArgsConstructor
+@NoArgsConstructor
+@TableName("article")
 public class Article {
 
     private Long id;
